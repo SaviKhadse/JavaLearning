@@ -1,0 +1,4 @@
+using if else check if the value is integer
+create star pattern
+What is final keyword?
+create star pattern
